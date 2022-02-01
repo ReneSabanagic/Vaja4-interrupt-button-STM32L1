@@ -8,7 +8,7 @@ Koliko znaša (v mili sekundah) zapisana zakasnitev, ki jo proizvede zanka for? 
 
 V to zanko dodajte ukaz za zakasnitev z funkcijo Delay iz knjižnice HAL, in sicer pol sekunde: HAL_Delay(500);
 
-Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modro tipko na STM32L1?
+Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modro tipko na STM32L1? Prižiga in ugaša se zelena LED.
 
 Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj? __ne
 
