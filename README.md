@@ -2,7 +2,7 @@
 
 V Pinout % Configuraton pogledu glede na vašo razvojno ploščico ugotovite, ali lahko uporabite modro tipko za digitalni vhod kot interrupt (GPIO_EXT…). Če da, kateri pin je to? PA0_____ Če ni, uporabite drugi ustrezni pin /___, ki ga boste prožili s pomočjo Pull-UP vezja.
 
-Zapišite naslov izhodnih pinov za zeleno in modro LED: PC9, PC8_
+Zapišite naslov izhodnih pinov za zeleno in modro LED: PC7, PC6_
 
 Koliko znaša (v mili sekundah) zapisana zakasnitev, ki jo proizvede zanka for? 10000.
 
